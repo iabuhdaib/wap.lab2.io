@@ -1,0 +1,55 @@
+
+
+.itemText {
+    font-size: 20px;
+    font-weight: bold;
+   color: #03b5fc;
+
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+   color: #03b5fc;
+  }
+  p::first-letter {
+   
+    font-size: 150%;
+    margin: 0 .1em 0 0;
+    line-height: 0.85;
+  }
+
+a:link {
+    color:brown;
+    text-decoration: none;
+}
+a:link:hover {
+    color:brown;
+    text-decoration: underline;
+}
+.yellowText
+{
+    color:yellow;
+}
+body{
+    background-color:#3B3C36 ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+
+.headerText {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: #03b5fc;
+
+}
+
+.itemWithMargines
+{
+    margin-left: 30px;
+}
